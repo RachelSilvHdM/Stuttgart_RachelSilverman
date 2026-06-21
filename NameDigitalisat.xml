@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sagen des Rhöngebirges und des Grabfeldes</title>
+        <title type="sub">Der fränkische Sagenschatz</title>
+        <respStmt xml:id="textsource-1" corresp="#availability-textsource-1">
+          <orgName>Thuringian University and State Library Jena</orgName>
+          <resp>
+            <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+            <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+            <ref target="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00024060"/>
+            <date type="importDTA">2026-06-21T14:21:52Z</date>
+          </resp>
+        </respStmt>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-06-21T14:21:52Z</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p>CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Der Sagenschatz des Frankenlandes</bibl>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Die Sagen des Rhöngebirges und des Grabfeldes</title>
+          <title level="m" type="sub">Der fränkische Sagenschatz</title>
+            <editor>
+              <persName>
+                <surname>Bechstein</surname>
+                <forename>Ludwig</forename>
+              </persName>
+            </editor>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher><name>Voigt &amp; Mocker</name></publisher>
+              <pubPlace>Würzburg</pubPlace>
+            <date type="publication">1842</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+ <text>
+ <body>
+ <p>
+<lb/>12 -
+<lb/>Daß ich meinen Sammeleifer nächst Thüringen dem
+<lb/>Lande Franken zuwende, ist sehr natürlich; waren doch
+<lb/>beide Länder einst nur eins.
+<lb/>Auf der Gränzscheide zwischen diesen beiden Ländern
+<lb/>wohnend, folglich jedem gleich nah, in jedem gleich heimisch,
+<lb/>lernte ich bald erkennen, daß auch Franken eine Fülle
+<lb/>Volkssagen im Schoose seiner Berge und Wälder, seiner
+<lb/>Schlösser und Burgen, seiner Kirchen und Kapellen, an
+<lb/>den Ufern seines Stromes und seiner stillen Flüsse hegt
+<lb/>und in sich hält, die zum größern Theil noch unbekannt,
+<lb/>nirgend vollzählig in der Weise gesammelt sind, die ich
+<lb/>zu befolgen pflege. Daß diese Weise keine unrichtige,
+<lb/>davon überzeuge ich mich mehr und mehr, und werde sie
+<lb/>ferner beibehalten.
+<lb/>Die Sagen Frankens tragen im Allgemeinen ganz
+<lb/>denselben Charakter der Sagen des übrigen Deutschland's;
+<lb/>sie sind theils urzeitlich, oder später geschichtlich, in Chro¬
+<lb/>niken aufbewahrt; theils örtlich, und dann immer wie
+<lb/>überall mehr volksmündlich, und es ist dabei nur das als
+<lb/>besonders charakteristisch hervorzuheben, was entschieden
+<lb/>vorwaltet. Dieß ist zunächst bemerkbar, als Heiligen¬
+<lb/>und Wundersage, im herrschenden Glauben und im
+<lb/>Kult des Landes von selbst begründet. Aber gerade die
+<lb/>oft legendenähnlichen Wundersagen tragen meist eine ächt¬
+<lb/>poetische Färbung. Das Wunder, „des Glaubens liebstes
+<lb/>Kind“, ist selbst Poesie.</p>
+ </body>
+ </text>
+</TEI>
