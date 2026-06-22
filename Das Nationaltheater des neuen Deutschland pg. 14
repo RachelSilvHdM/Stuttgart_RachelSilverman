@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Das Nationaltheater des neuen Deutschland</title>
+                <title type="sub">Eine Reformschrift</title>
+                <author>
+                    <persName>
+                        <surname>Devrient</surname>
+                        <forename>Eduard</forename>
+                    </persName>
+                </author>
+                <respStmt xml:id="textsource-1" corresp="#availability-textsource-1">
+                    <persName>
+                        <surname>Archiv</surname>
+                        <forename>Deutsches Text</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                        <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle
+                            Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand
+                            zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                        <ref
+                            target="https://www.deutschestextarchiv.de/book/show/devrient_nationaltheater_1849" />
+                        <date type="importDTA">2026-06-22T17:44:52Z</date>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</orgName>
+                    <resp>
+                        <note type="remarkResponsibility">Langfristige Bereitstellung der
+                            DTA-Ausgabe</note>
+                        <ref target="https://www.bbaw.de" />
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Vollständige digitalisierte Ausgabe.</edition>
+            </editionStmt>
+            <extent>
+                <measure type="images" />
+                <measure type="tokens" />
+                <measure type="types" />
+                <measure type="characters" />
+            </extent>
+            <publicationStmt>
+                <publisher xml:id="DTACorpusPublisher">
+                    <email>dta@bbaw.de</email>
+                    <orgName role="project">Deutsches Textarchiv</orgName>
+                    <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of
+                        Sciences and Humanities (BBAW)</orgName>
+                    <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische
+                        Akademie der Wissenschaften (BBAW)</orgName>
+                    <address>
+                        <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+                        <country>Germany</country>
+                    </address>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2026-06-22T17:44:52Z</date>
+                <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
+                        <p>CC BY-SA 4.0</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="M" />
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Das Nationaltheater des neuen Deutschland</title>
+                        <title level="m" type="sub">Eine Reformschrift</title>
+                        <author>
+                            <persName>
+                                <surname>Devrient</surname>
+                                <forename>Eduard</forename>
+                            </persName>
+                        </author>
+                    </titleStmt>
+                    <editionStmt>
+                        <edition n="1">1. Auflage</edition>
+                    </editionStmt>
+                    <publicationStmt>
+                        <publisher>
+                            <name>Weber</name>
+                        </publisher>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date type="publication">1849</date>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    Bogensignaturen: keine Angabe;
+                    Druckfehler: keine Angabe;
+                    fremdsprachliches Material: keine Angabe;
+                    Geminations-/Abkürzungsstriche: keine Angabe;
+                    Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+                    I/J in Fraktur: keine Angabe;
+                    i/j in Fraktur: keine Angabe;
+                    Kolumnentitel: keine Angabe;
+                    Kustoden: keine Angabe;
+                    langes s (ſ): keine Angabe;
+                    Normalisierungen: keine Angabe;
+                    rundes r (&amp;#xa75b;): keine Angabe;
+                    Seitenumbrüche markiert: keine Angabe;
+                    Silbentrennung: keine Angabe;
+                    u/v bzw. U/V: keine Angabe;
+                    Vokale mit übergest. e: keine Angabe;
+                    Vollständigkeit: keine Angabe;
+                    Zeichensetzung: keine Angabe;
+                    Zeilenumbrüche markiert: keine Angabe;
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <lb />rischen Directoren geleitet. Ja Kaiser Joseph<persName ref="https://w.wiki/Rbqe">Joseph II, Holy Roman Emperor</persName> erkannte 
+                <lb />die Nothwendigkeit der Selbstregierung der Künstler so 
+                <lb />vollständig an, daß er dem Wiener Nationaltheater<placeName ref="https://w.wiki/Rbra">Burgtheater</placeName> eine 
+                <lb />ganz republikanische Verfassung gab, deren Grundsätze in 
+                <lb /><placeName ref="https://w.wiki/Rbru">Mannheim</placeName> unter Dalberg<placeName ref="https://w.wiki/Rbs3">Dalberg</placeName> eine denkwürdige Fortbildung 
+                <lb />fanden.
+                <lb />Aus solchem Geiste und unter solchem Schutze wuchs 
+                <lb />die deutsche Schauspielkunst, geführt von Meistern, wie 
+                <lb />Eckhoff<persName ref="https://w.wiki/RbtJ">Konrad Ekhof</persName>, Schröder<persName ref="https://w.wiki/Rbta">Friedrich Ludwig Schröder</persName>, Iffland<persName ref="https://w.wiki/Rbti">August Wilhelm Iffland</persName>, zu der kräftigen Reife, welche 
+                <lb />unter Schiller's<persName ref="https://w.wiki/Rbtq">Friedrich Schiller</persName> und Goethe's<persName ref="https://w.wiki/DiQX">Johann Wolfgang von Goethe</persName> Einfluß ihre poetische 
+                <lb />Vollendung erhielt. 
+                <lb />Als aber nach dem Wiener Congreß die Höfe den 
+                <lb />alten Glanz wieder gewannen, neue Theater in den Re¬ 
+                <lb />sidenzen errichtet, die bestehenden in größeren Flor ge¬ 
+                <lb />bracht wurden, da veränderte sich Stellung und Organi- 
+                <lb />sation der Bühnen wesentlich. 
+                <lb />Die Verbreitung der constitutionellen Regierungs- 
+                <lb />form trennte die Staatsgewalten, der Fürst vertrat nicht 
+                <lb />mehr allein den Willen der Nation; indem also die 
+                <lb />Höfe das Theater an sich behielten, gab der Staat, gab 
+                <lb />Gesch. der deutsch. Schauspielkunst II. B., S. 402, und 
+                <lb /> III. B., S. 16.  <note type="editorial">unleserlicher handgeschriebener Text.</note> </p>
+        </body>
+    </text>
+</TEI>
